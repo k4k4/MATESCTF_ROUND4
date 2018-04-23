@@ -12,7 +12,7 @@ for i in range(len(l)-2):
 		print '0x'+l[i][0:6]
 ```
 </br>
-Hàm `Castle42590()` </br>
+Hàm Castle42590() </br>
 
 ![image](https://user-images.githubusercontent.com/23306492/39140256-345756ee-474e-11e8-9f24-02c6655517fd.png)
 </br>
