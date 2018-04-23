@@ -1,7 +1,7 @@
 Hàm` main`</br>![image](https://user-images.githubusercontent.com/23306492/39135457-2edc1fe8-4743-11e8-8f27-dbdb67e54841.png)</br>function `regroot` tạo account root trong heap </br>
 ![image](https://user-images.githubusercontent.com/23306492/39135664-a753f086-4743-11e8-8686-3da51f9acd6a.png)</br>`getflag` khi `mode != 0`</br>
 ![image](https://user-images.githubusercontent.com/23306492/39135731-d29effd8-4743-11e8-8f3f-fcaf9b6cb63e.png)</br> 
-hàm `login()`
+hàm `login()`</br>
 ![image](https://user-images.githubusercontent.com/23306492/39135965-6225fbfc-4744-11e8-9c73-e2f973b756b1.png)</br>
 để `mode = 1` thì cần login với tài khoản `root`  </br>ta xác định password root có 29 ký tự </br>
 ![image](https://user-images.githubusercontent.com/23306492/39136063-9e38c0e8-4744-11e8-919b-2f6ecaa7fe52.png)</br>
