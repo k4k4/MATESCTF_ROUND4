@@ -7,5 +7,5 @@ hàm `login()`</br>
 ![image](https://user-images.githubusercontent.com/23306492/39136063-9e38c0e8-4744-11e8-919b-2f6ecaa7fe52.png)</br>
 hàm `reg`</br>
 ![image](https://user-images.githubusercontent.com/23306492/39136107-b18014f8-4744-11e8-9b90-6d2be3332ab4.png)</br>hàm `del` </br>
-![image](https://user-images.githubusercontent.com/23306492/39136131-bf05918e-4744-11e8-90ea-cf77e7b3caf5.png)</br> lỗi ở đây là ta có thể `brute force  password root`  với 29 lần connect lên server mỗi lần ta có thể biết đc 1 ký tự [solution](https://github.com/k4k4/MATESCTF_SESSION4/blob/master/rootme/rootme.py)</br>
+![image](https://user-images.githubusercontent.com/23306492/39136131-bf05918e-4744-11e8-90ea-cf77e7b3caf5.png)</br> lỗi ở đây là ta có thể xóa account `root (del(9))` và tạo lại accout `root` </br>![image](https://user-images.githubusercontent.com/23306492/39136820-47ed9e28-4746-11e8-9d01-a34a87771834.png)</br>  với 29 lần connect lên server mỗi lần ta có thể biết đc 1 ký tự [solution](https://github.com/k4k4/MATESCTF_SESSION4/blob/master/rootme/rootme.py)</br>
 ![image](https://user-images.githubusercontent.com/23306492/39136359-3cb86bb0-4745-11e8-8d27-c6132dacddd4.png)
