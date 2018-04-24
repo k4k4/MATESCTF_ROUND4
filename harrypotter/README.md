@@ -10,6 +10,6 @@ Hàm `myspecialexitfunction()` </br>
 ![image](https://user-images.githubusercontent.com/23306492/39140549-219b6f6c-474f-11e8-9fac-554c29bd98ee.png)</br>.
 Ta  ghi đè stack và   sử dụng brute force để bypass `aslr`
 ![image](https://user-images.githubusercontent.com/23306492/39140878-224d4830-4750-11e8-9dd2-ba207ff9d268.png)</br>
-![image](https://user-images.githubusercontent.com/23306492/39141363-d0047330-4751-11e8-8eae-2191fff2762e.png)</br>
+![image](https://user-images.githubusercontent.com/23306492/39159519-290606ea-4790-11e8-8339-774f5558b796.png)</br>
 [payload.py
 ](https://github.com/k4k4/MATESCTF_SESSION4/blob/master/harrypotter/harrypotter.py)
